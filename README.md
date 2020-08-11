@@ -1,2 +1,2 @@
-# pbut_tica-msm
-tICA used to build MSMs for the study of protein bound uremic toxins
+# "Analyzing the long time-scale dynamics of uremic toxins bound to Sudlow Site II in human serum albumin" James Ludwig, Josh Smith, and Jim Pfaendtner
+ 
