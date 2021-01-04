@@ -17,7 +17,7 @@ Although it would be easiest to apply the following methods using the above soft
 
 - __Step 1__ - Use our methods section to generate a set (15) of simulations for the desired protein-ligand comlpex in aqueous solution.
 
-- __Step 2__ - Follow procedure from previous work, using steps 2-4a from [Smith & Pfaendtner, 2020](https://github.com/UWPRG/pbut_analysis), in order to identify and monitor key residues of each system.
+- __Step 2__ - Follow procedure from previous work, using steps 2-4a from [(Smith & Pfaendtner, 2020)](https://github.com/UWPRG/pbut_analysis), in order to identify and monitor key residues of each system.
 
 - __Step 3__ - Determine hyperparameters using fivefold cross validation analysis in python ('get-hyperparameters.ipynb').
 
