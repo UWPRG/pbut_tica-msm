@@ -21,7 +21,7 @@ Although it would be easiest to apply the following methods using the above soft
 
 - __Step 3__ - Determine hyperparameters using fivefold cross validation analysis in python ('get-hyperparameters.ipynb').
 
-- __Step 4__ - Tets, build, and analyze MSMs in python ('build-msm.ipynb').
+- __Step 4__ - Test, build, and analyze MSMs in python ('build-msm.ipynb').
 
 - __Step 5__ -  Return to step 1 for any other ligands to be studied/compared.
 
