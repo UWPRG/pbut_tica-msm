@@ -27,4 +27,4 @@ Although it would be easiest to apply the following methods using the above soft
 
 ### Attribution
 
-When using the code above to conduct original research, please cite our upcoming paper and reference this code repository. Paper is currently in submission process, this will be updated. Thanks!
+When using the code above to conduct original research, please cite our upcoming paper and reference this code repository. Paper has been accepted, link will be updated when public. Thanks!
