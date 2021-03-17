@@ -27,4 +27,4 @@ Although it would be easiest to apply the following methods using the above soft
 
 ### Attribution
 
-When using the code above to conduct original research, please cite our [(recent paper)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c00221) and reference this code repository. Thanks!
+When using the code above to conduct original research, please cite our [recent paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c00221) and reference this code repository. Thanks!
